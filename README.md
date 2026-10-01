@@ -6,6 +6,6 @@ Klinik Araştırma ve Deney Takip Sistemi Bu proje ; klinik araştırmaların ve
 
 • Hasta / gönüllü bilgilerini ve toplanan numunelerin durumunu sisteme kaydetme
 
-• SQL server kullanarak verileri dinamik bir şekilde ekleme, silme, güncelleme ve listeleme
+• SQL server kullanarak verileri  ekleme, silme, güncelleme ve listeleme
 
 • Araştırmacılar ve personel için ayrı yetkilendirme altyapısı oluşturma 
