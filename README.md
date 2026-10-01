@@ -1,6 +1,6 @@
 # klinik-arastirma-deney-takip-sistemi
 Veri Tabanı Yönetimi Dersi - Klinik Araştırma ve Deney Takip Sistemi Projesi
-Klinik Araştırma ve Deney Takip Sistemi Bu proje ; klinik araştırmaların ve deney süreçlerinin  veri tabanı ile düzenli bir şekilde takip edilebilirliğini sağlayan  bir yazılım projesidir . Çalışmanın temel amacı; klinik çalışmaların   tek bir merkezden, güvenilir bir şekilde veri tabanı altyapısıyla yönetimini sağlamaktır . Temel Özellikler 
+Klinik Araştırma ve Deney Takip Sistemi Bu proje ; klinik araştırmaların ve deney süreçlerinin  veri tabanı ile düzenli bir şekilde takip edilebilirliğini sağlayan  bir yazılım projesidir . Çalışmanın temel amacı; klinik araştırmaların tek bir merkezden, güvenilir bir şekilde veri tabanı altyapısıyla yönetimini sağlamaktır . Temel Özellikler 
 
 • Yürütülen araştırmaları, aşamaları ve çıkan sonuçları adım adım takip etme
 
