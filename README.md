@@ -14,8 +14,6 @@
 ### Proje Dosyaları
 * **create_tables.sql:** Veritabanı tablolarının iskeletini, birincil anahtarlarını (PK) ve yabancı anahtar (FK) ilişkilerini oluşturan SQL kodları.
 * **insert_data.sql:** Tabloları dolduran 100'den fazla gerçekçi klinik örnek veri seti (Hastalar, hekimler, ilaçlar, deneyler, dozlar ve yan etkiler).
-* **queries.sql:** Klinik süreçleri analiz eden çoklu JOIN, filtreleme ve gruplama (GROUP BY) sorguları.
-
 ---
 
 ### Veritabanı Tablo Yapısı (8 Ana Tablo)
